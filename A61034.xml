@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of a reverend bishop of the Church of England in defense of themselves and the government against the malicious libels of these times</title>
+            <author>Reverend Bishop of the Church of England.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61034</idno>
+            <idno type="STC">Wing S4861</idno>
+            <idno type="STC">ESTC R10360</idno>
+            <idno type="EEBO-CITATION">13779947</idno>
+            <idno type="OCLC">ocm 13779947</idno>
+            <idno type="VID">101773</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61034)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101773)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 850:47)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of a reverend bishop of the Church of England in defense of themselves and the government against the malicious libels of these times</title>
+                  <author>Reverend Bishop of the Church of England.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[England :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101773:1"/>
+            <pb facs="tcp:101773:1"/>
+            <p>THE SPEECH OF A Reverend Biſhop <hi>OF THE</hi> CHURCH Of <hi>ENGLAND.</hi>
+            </p>
+            <p>IN DEFENCE OF THEMSELVES AND THE GOVERNMENT.</p>
+            <p>Againſt the Malicious LIBELS of theſe TIMES.</p>
+            <p>Printed in the Year, 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:101773:2"/>
+            <pb n="1" facs="tcp:101773:2"/>
+            <opener>
+               <salute>MY LORDS,</salute>
+            </opener>
+            <p>I Shall not need to ſpeak of the Infamous Courſe of <hi>Libell<g ref="char:EOLhyphen"/>ing</hi> in any kind. Nor of the <hi>Puniſhment</hi> of it, which in ſome caſes was <hi>Capitall</hi> by the <hi>Imperial Laws.</hi>
+            </p>
+            <p>Nor how <hi>patiently</hi> ſome great Men, very great Men indeed, have bourn the tearing and rending of their Credit and Reputation, with a gentle, nay, a generous mind.</p>
+            <p>But of all <hi>Libels,</hi> they are moſt <hi>odious</hi> which pretend <hi>Re<g ref="char:EOLhyphen"/>ligion:</hi> as if that of all things did deſire to be defended by a <hi>Mouth that is like an open Sepulcher,</hi> or by a Pen that is made of a ſick and a loathſome Quill.</p>
+            <p>There were times when <hi>Perſecutions</hi> were great in the <hi>Church,</hi> even to exceed <hi>Barbarity</hi> it ſelf: did any <hi>Martyr</hi> or <hi>Confeſſor,</hi> in thoſe times, <hi>Libel</hi> the <hi>Governours?</hi> Surely no; not one of them to my beſt <hi>Remembrance:</hi> Yet theſe complain without cauſe; and in the mean time <hi>Libel</hi> and rayl without all meaſure. So little of kin are they to thoſe which <hi>ſuffer for Chriſt,</hi> or the leaſt part of <hi>Chriſtian Reli<g ref="char:EOLhyphen"/>gion.</hi>
+            </p>
+            <pb n="2" facs="tcp:101773:3"/>
+            <p>
+               <hi>My Lords,</hi> It is not every mans <hi>ſpirit</hi> to hold up againſt the <hi>Venome</hi> which <hi>Libellers</hi> ſpit. For S. <hi>Ambroſe,</hi> who was a ſtout and a worthy <hi>Prelate,</hi> tells us, not that himſelf, but that a far greater Man than he, that's K. <hi>David,</hi> had found out (ſo it ſeems in his <hi>judgement</hi> 'twas no matter of ordinary a<g ref="char:EOLhyphen"/>bility) <hi>Grande inventum,</hi> a great and mighty invention, how to ſwallow and put off thoſe bitter <hi>contumelies</hi> of the <hi>Tongue:</hi> and thoſe of the <hi>Pen</hi> are no whit leſs, and ſpread farther: And it was a great one indeed, and well beſeemed the great<g ref="char:EOLhyphen"/>neſs of <hi>David.</hi> But <hi>I think</hi> it will be far better for me to look upward, and <hi>practiſe</hi> it, than to look downward, and <hi>diſ<g ref="char:EOLhyphen"/>courſe</hi> upon it.</p>
+            <p>In the mean time I ſhall remember what an <hi>Antient</hi> under the name of S. <hi>Hierom</hi> tells me, <hi>Indignum eſt &amp; praepoſterum,</hi> 'Tis unworthy in it ſelf, and prepoſterous in demeanour for a man to be aſhamed for <hi>doing good,</hi> becauſe other men glo<g ref="char:EOLhyphen"/>ry in <hi>ſpeaking Ill.</hi>
+            </p>
+            <p>And I can ſay it clearly and truly, as in the <hi>preſence of God,</hi> I have done nothing, as a <hi>Prelate,</hi> to the uttermoſt of what I am conſcious, but with a <hi>ſingle heart,</hi> and with a <hi>ſincere in<g ref="char:EOLhyphen"/>tention</hi> for the good <hi>Government</hi> and <hi>Honour</hi> of the <hi>Church,</hi> and the maintenance of the <hi>Orthodox Truth</hi> and <hi>Religion</hi> of <hi>Chriſt</hi> profeſſed, eſtabliſhed, and maintained in this <hi>Church</hi> of <hi>England.</hi>
+            </p>
+            <p>For our <hi>care of this Church,</hi> the upholding of the <hi>External Worſhip of God</hi> in it and the ſetling of it to the <hi>Rules</hi> of its <hi>firſt Reformation,</hi> are the <hi>cauſes</hi> (and the ſole cauſes, what ever are pretended) of all their malice againſt us.</p>
+            <p>For 'tis moſt <hi>apparent</hi> to any man that will not wink, that the <hi>Intention</hi> of <hi>theſe men,</hi> and their <hi>Abettors,</hi> is to raiſe <hi>Sedi<g ref="char:EOLhyphen"/>tion,</hi> being as great <hi>Incendiaries</hi> in the <hi>State</hi> (where they get power) as they have ever been in the <hi>Church; Novation</hi> him<g ref="char:EOLhyphen"/>ſelf hardly greater.</p>
+            <p>Our main <hi>Crime</hi> is (would they all ſpeak out, as ſome of them do) that we are <hi>Biſhops:</hi> were we not ſo, ſome of us might be as <hi>paſſable</hi> as other men.</p>
+            <pb n="3" facs="tcp:101773:3"/>
+            <p>And a great trouble 'tis to them, that we maintain that our <hi>Calling of Biſhops</hi> is <hi>Jure Divino,</hi> by Divine Right: This I will ſay, and abide by it, that the <hi>Calling of Biſhops</hi> is <hi>Jure Divino,</hi> by Divine Right, though not all <hi>Adjuncts</hi> to their <hi>calling.</hi> And this I ſay in as direct <hi>oppoſition</hi> to the <hi>Church of Rome,</hi> as to the <hi>Phanatick humour.</hi>
+            </p>
+            <p>And I ſay farther, that from the <hi>Apoſtles times,</hi> in all ages, in all places, the <hi>Church of Christ</hi> was Governed by <hi>Biſhops:</hi> And <hi>Lay-Elders</hi> never heard of, till <hi>Calvins</hi> new-ſangled de<g ref="char:EOLhyphen"/>vice at <hi>Genova.</hi>
+            </p>
+            <p>Now this is made by theſe men, as if it were <hi>Contra Regem,</hi> againſt the King, in right or in power.</p>
+            <p>But that's a meer <hi>ignorant ſhift;</hi> for our being <hi>Biſhops, Ju<g ref="char:EOLhyphen"/>re Divino,</hi> by Divine Right, takes nothing from the <hi>Kings Right or power over us.</hi> For though our <hi>Office</hi> be from <hi>God</hi> and Chriſt <hi>immediately,</hi> yet may we not <hi>exerciſe</hi> that <hi>power,</hi> either of <hi>Order</hi> or <hi>Juriſdiction,</hi> but as <hi>God</hi> hath <hi>appointed</hi> us, that is, not in his <hi>Majeſties,</hi> or any <hi>Chriſtian Kings Kingdo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> but by and under the power of the <hi>King</hi> given us ſo to do.</p>
+            <p>And were this a good <hi>Argument</hi> againſt us, as <hi>Biſhops,</hi> it muſt needs be good againſt <hi>Prieſts</hi> and <hi>Miniſters</hi> too; for themſelves grant that their <hi>Calling</hi> is <hi>Jure Divino,</hi> by Divine Right; and yet I hope they will not ſay, that to be <hi>Prieſts and Miniſters</hi> is againſt the <hi>King,</hi> or any His <hi>Royal Preroga<g ref="char:EOLhyphen"/>tives.</hi>
+            </p>
+            <p>Next, ſuppoſe our <hi>Callings,</hi> as <hi>Biſhops,</hi> could not be made good <hi>Jure Divino,</hi> by Divine Right; yet <hi>Jure Eccleſiaſtico<g ref="char:punc">▪</g>
+               </hi> by Eccleſiaſtical Right it cannot be denyed. And here in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> the <hi>Biſhops</hi> are confirmed, both in their power and means, by <hi>Act of Parliament.</hi> So that here we ſtand in as good caſe, as the preſent <hi>Laws</hi> of the <hi>Realm</hi> can make us. And ſo we muſt ſtand, till the <hi>Laws</hi> ſhall be repealed by the ſame, <hi>power</hi> that made them.</p>
+            <p>Now then, <hi>ſuppoſe</hi> we had no other ſtring to hol<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by (I ſay ſuppoſe this, but I grant it not) yet no man can <hi>Lib<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l</hi> againſt
+<pb n="4" facs="tcp:101773:4"/>our <hi>Calling</hi> (as theſe men do) be it in <hi>Pulpit, Print,</hi> or other<g ref="char:EOLhyphen"/>wiſe, but he <hi>Libels</hi> againſt the <hi>King</hi> and the <hi>State,</hi> by whoſe <hi>Laws</hi> we are eſtabliſhed. Therefore, all theſe <hi>Libels,</hi> ſo far forth as they are againſt our <hi>Calling,</hi> are againſt the King and the <hi>Law,</hi> and can have no other purpoſe, than to ſtirr up <hi>Sedition</hi> among the people.</p>
+            <p>If theſe men have any other <hi>intention,</hi> or if they have any Chriſtian or charitable deſire, to <hi>reform</hi> any thing amiſs; why do they not modeſtly <hi>Petition His Majeſty</hi> about it, that in his <hi>Princely Wiſdom</hi> he might ſet all things right, in a <hi>Juſt</hi> and <hi>Orderly</hi> manner? But this is neither their <hi>Intention,</hi> nor <hi>way.</hi> For one clamours out of his <hi>Pulpit,</hi> and all of them from the <hi>Preſs,</hi> and in a moſt virulent and <hi>unchriſtian</hi> manner ſet themſelves to make a <hi>heat</hi> among the people; and ſo by <hi>Mu<g ref="char:EOLhyphen"/>tiny,</hi> to effect that, which by <hi>Law</hi> they cannot: And, by moſt falſe and unjuſt <hi>Calumnies</hi> to defame both our <hi>Callings</hi> and <hi>Perſons.</hi> Put for <hi>my part,</hi> as I pitty their rage, ſo I hear<g ref="char:EOLhyphen"/>tily pray <hi>God</hi> to <hi>forgive</hi> their malice.</p>
+            <p>No <hi>Nation</hi> hath ever appeared more jealous of <hi>Religion,</hi> then the people of <hi>England</hi> have ever been. And their <hi>zeal to Gods glory</hi> hath been, and at this day is a great <hi>honour</hi> to them. But this <hi>Zeal</hi> of theirs, hath not been at all times and in all perſons, alike guided by <hi>Knowledge.</hi> Now <hi>Zeal,</hi> as it is of <hi>excellent</hi> uſe, where it ſees it's way: ſo is it very <hi>dan<g ref="char:EOLhyphen"/>gerous</hi> company, where it goes on in the <hi>dark:</hi> And theſe Men, knowing the <hi>Diſpoſition</hi> of the people, do labour all they can to miſ-inform their <hi>knowledge,</hi> and miſguide their <hi>Zeal,</hi> and ſo to fire that into a <hi>Sedition,</hi> in hope that they, whom they cauſleſly hate, might miſcatry in it.</p>
+            <p>For the <hi>main ſcope</hi> of theſe <hi>Libels</hi> is, to kindle a <hi>Jealouſie</hi> in mens minds, that there are ſome great Plots in hand, to change the <hi>Orth<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dox Religion</hi> eſtabliſhed in <hi>England,</hi> and to bring in, <hi>J</hi> know not what, <hi>Romiſh Superſtition</hi> in the Room of it. As if the <hi>external decent worſhip of God</hi> could not be upheld in this <hi>Kingdom,</hi> without bringing in of <hi>Popery.</hi>
+            </p>
+            <pb n="5" facs="tcp:101773:4"/>
+            <p>Now by this <hi>Art</hi> of theirs, give me leave to tell you, that the <hi>King</hi> is moſt deſperately abuſed and wounded in the minds of his <hi>people.</hi> For there is not a more cunning trick in the World, to <hi>withdraw</hi> the peoples hearts from their <hi>Sove<g ref="char:EOLhyphen"/>raign,</hi> than to perſwade them that he is changing <hi>true Reli<g ref="char:EOLhyphen"/>gion,</hi> and about to bring in groſs <hi>Superſtition</hi> upon them.</p>
+            <p>
+               <hi>For his Majeſty.</hi> This I know, and upon this <hi>occaſion</hi> take it my <hi>duty</hi> to ſpeak: There is no <hi>Prince</hi> in <hi>Chriſtendom</hi> more ſincere, both in the <hi>Truth</hi> of the <hi>Religion</hi> here eſtabliſhed, and in <hi>Reſolution</hi> to maintain it.</p>
+            <p>
+               <hi>And for the Prelates.</hi> I aſſure my ſelf, they cannot be ſo baſe, as to live <hi>Prelates</hi> in the Church of <hi>England,</hi> and labour to bring in the <hi>Superſtitions</hi> of the <hi>Chu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch of Rome,</hi> upon them<g ref="char:EOLhyphen"/>ſelves and it. And if any ſhould be ſo <hi>foul,</hi> I do not onely leave him to <hi>Gods Judgement,</hi> but if theſe <hi>Libellers,</hi> or any other, can <hi>diſcover</hi> that his baſe and <hi>irreligious</hi> falſhood) to <hi>ſhame</hi> alſo, and ſevere <hi>puniſhment</hi> from the <hi>State:</hi> And in any <hi>juſt</hi> way, no mans <hi>hand</hi> ſhall be more, or ſconer againſt him, than <hi>mine</hi> ſhall be.</p>
+            <p>For as baſely as theſe men conceive of us, yet I thank <hi>God,</hi> we know our duty well both to <hi>God</hi> and the <hi>King:</hi> And I know that all the <hi>duty</hi> we owe to the <hi>King,</hi> is under God: And our great happineſs is, that we live under a <hi>Gracious</hi> and a <hi>Religious King,</hi> that will ever give us leave to ſerve <hi>God</hi> firſt, and <hi>Him next.</hi>
+            </p>
+            <pb n="6" facs="tcp:101773:5"/>
+            <p>I ſhall <hi>end</hi> all with a paſſage out of S. <hi>Cyprian,</hi> when he, then <hi>Biſhop</hi> of <hi>Carthage,</hi> was <hi>bitterly rayled</hi> upon by a pack of <hi>Schiſmaticks, his anſwer</hi> was, and 'tis now <hi>mine;</hi> They have <hi>rayled</hi> both <hi>bitterly</hi> and <hi>falſly</hi> upon <hi>me,</hi> and yet <hi>Non oportet me paria cum illis facere:</hi> it becomes not <hi>me</hi> to anſwer them with the like, either <hi>Levities</hi> or <hi>Revilings,</hi> but to <hi>Speak</hi> and <hi>Write</hi> that only which becomes <hi>Sacerdotem Dei,</hi> a <hi>Prieſt</hi> of <hi>GOD.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:101773:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
